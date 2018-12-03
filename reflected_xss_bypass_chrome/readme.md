@@ -99,7 +99,7 @@ in my xss platform(platform to recieve xss data),we can see cookie of the manage
 
 
 
-### just wan't an alert?
+### just want an alert?
 
 first visit
 
